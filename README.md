@@ -102,3 +102,45 @@ http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129326
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129315
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpsons" tvg-logo="https://designlogovector.com/wp-content/uploads/2020/04/The-Simpsons-designlogovectorcom.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | Los Simpsons
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129313
+#EXTINF:-1 tvg-id="" tvg-name="24/7 |  Scooby-Doo HD" tvg-logo="https://www.pngitem.com/pimgs/m/18-184162_scooby-doo-logo-scooby-doo-logo-png-transparent.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 |  Scooby-Doo HD
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3385
+#EXTINF:-1 tvg-id="" tvg-name="24/7 |  Rick and Morty" tvg-logo="https://assets.stickpng.com/images/58f37720a4fa116215a9240f.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 |  Rick and Morty
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3386
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | Chespirito SD
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129322
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULÍN COLORADO SHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | EL CHAPULÍN COLORADO SHOW
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129323
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Coraje El Perro Cobarde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Courage_the_Cowardly_Dog_logo.svg/1200px-Courage_the_Cowardly_Dog_logo.svg.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | Coraje El Perro Cobarde
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129333
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL GT" tvg-logo="http://img10.deviantart.net/8ab3/i/2016/143/d/5/poster_dragon_ball_z_27_aniversario_by_facudibuja-da3jjej.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | DRAGON BALL GT
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129334
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Pajaro Loco" tvg-logo="https://i.pinimg.com/originals/bd/7d/a6/bd7da6091c964a341bbb390f9887cd58.jpg" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | El Pajaro Loco
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129336
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Hey Arnold!" tvg-logo="https://fanart.tv/fanart/tv/72005/clearlogo/HeyArnold-72005.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | Hey Arnold!
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129337
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Looney Tunes" tvg-logo="https://www.logolynx.com/images/logolynx/01/010976d5595e2ee999cfa3cc99b0bd55.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | Looney Tunes
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129338
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="https://formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | La Pantera Rosa
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129347
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Picapiedra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/640px-The_Flintstones_logo.svg.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | Los Picapiedra
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129349
+#EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="https://image.tmdb.org/t/p/w185/7kN4ye3NHWO27J2WnepYZ9Jpt8R.jpg" group-title="⭐️CANALES 24/7⭐️Solo diversión.",Smallville
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/129353
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO ANIMADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | EL CHAVO ANIMADO
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/131452
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: GRAVITY FALLS" tvg-logo="https://img1.freepng.es/20180410/xeq/kisspng-logo-t-shirt-television-show-font-false-5acd409768a910.6098835415234008554287.jpg" group-title="⭐️CANALES 24/7⭐️Solo diversión.",Cinema: GRAVITY FALLS
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/138455
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peppa Pig FHD" tvg-logo="https://as01.epimg.net/meristation/imagenes/2021/05/24/videos/1621837794_049380_1621837848_portada_normal.jpg" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | Peppa Pig FHD
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/140377
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULÍN COLORADO ANIMADO" tvg-logo="https://www.clipartmax.com/png/middle/164-1644538_el-chapulin-colorado-chapulin-colorado-en-png.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | EL CHAPULÍN COLORADO ANIMADO
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/140845
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Familia P. Luche" tvg-logo="https://www.kindpng.com/picc/m/24-244955_la-familia-p-la-familia-p-luche-hd.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | La Familia P. Luche
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/152821
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS PITUFOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Los_Pitufos_%282021%29.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | LOS PITUFOS
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/162183
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | FUTURAMA SERIE" tvg-logo="https://e1.pngegg.com/pngimages/103/58/png-clipart-futurama-futurama-folder-icon-thumbnail.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | FUTURAMA SERIE
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/162187
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | GARFIELD Y SUS AMIGOS SERIE" tvg-logo="https://img2.freepng.es/20180517/hle/kisspng-garfield-comics-television-logo-cartoon-5afd995e0cb586.0264434915265693100521.jpg" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | GARFIELD Y SUS AMIGOS SERIE
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/162188
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PHINEAS Y FERB SERIE HD" tvg-logo="https://www.pngkey.com/png/detail/316-3165314_phineas-and-ferb-download-png-image-phineas-and.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | PHINEAS Y FERB SERIE HD
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/154855
