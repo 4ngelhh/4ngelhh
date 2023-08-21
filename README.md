@@ -144,3 +144,9 @@ http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/162187
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/162188
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | PHINEAS Y FERB SERIE HD" tvg-logo="https://www.pngkey.com/png/detail/316-3165314_phineas-and-ferb-download-png-image-phineas-and.png" group-title="⭐️CANALES 24/7⭐️Solo diversión.",24/7 | PHINEAS Y FERB SERIE HD
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/154855
+#EXTINF:-1 tvg-id="HistoryPanregional.us" tvg-name="13 | HISTORY CHANNEL MX SD" tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="Dcs🗼",13 | HISTORY CHANNEL MX SD
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/132592
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="12 | DISCOVERY WORLD MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Dcs🗼",12 | DISCOVERY WORLD MX
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/132590
+#EXTINF:-1 tvg-id="" tvg-name="25 | DISCOVERY CIVILITATION MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png" group-title="Dcs🗼",25 | DISCOVERY CIVILITATION MX
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/138188
