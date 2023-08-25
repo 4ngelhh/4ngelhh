@@ -150,3 +150,13 @@ http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/132592
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/132590
 #EXTINF:-1 tvg-id="" tvg-name="25 | DISCOVERY CIVILITATION MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png" group-title="Dcs🗼",25 | DISCOVERY CIVILITATION MX
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/138188
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-name="Low | Discovery Channel" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="Dcs🗼",Low | Discovery Channel
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3846
+#EXTINF:-1 tvg-id="DiscoveryChannelMexico.mx" tvg-name="USA: Discovery Channel Español HD" tvg-logo="" group-title="Dcs🗼",USA: Discovery Channel Español HD
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/131283
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="12 | DISCOVERY WORLD MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Dcs🗼",12 | DISCOVERY WORLD MX
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/132590
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="04 | DISCOVERY CHANNEL (MX)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="Dcs🗼",04 | DISCOVERY CHANNEL (MX)
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/2020
+#EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-name="11 | DISCOVERY WORLD MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Dcs🗼",11 | DISCOVERY WORLD MX UHD®
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3606
